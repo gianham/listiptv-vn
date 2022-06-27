@@ -46,8 +46,8 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=MWM0OGU0MjAtMzFmNi0zMDRjLTgxMTMtYWE1ODUzMWNhOTI4
-http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#KODIPROP:inputstream.adaptive.license_key=https://api.fptplay.net/api/v6.2_w/tv/kpm?st=Kd20Nx4PgC0TOR2671wuxg&e=1656315492404&device=Edge(version%253A103.0.1264.37)&drm=1
+https://live-drm.fptplay.net/MTAyMzk1fDE0MDIyMDIyazFzcG9ydDF3ZWJfMjAwMC5zdHJlYW18dmlldHRlbHwxNjU2MzE1NDgxfDI3Ljc3LjE4My4xNHxhMDhhYmQ3MWMyMzc1ZTM5MzAxY2JmN2I2OGYzYjMxZQ/webplus/14022022k1sport1web_2000.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png",K+Life
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
