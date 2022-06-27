@@ -44,11 +44,10 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+Cine
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.fptplay.net/api/v6.2_w/tv/kpm?st=Kd20Nx4PgC0TOR2671wuxg&e=1656315492404&device=Edge(version%253A103.0.1264.37)&drm=1
-https://live-drm.fptplay.net/MTAyMzk1fDE0MDIyMDIyazFzcG9ydDF3ZWJfMjAwMC5zdHJlYW18dmlldHRlbHwxNjU2MzE1NDgxfDI3Ljc3LjE4My4xNHxhMDhhYmQ3MWMyMzc1ZTM5MzAxY2JmN2I2OGYzYjMxZQ/webplus/14022022k1sport1web_2000.stream/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livetvbydtpro.duckdns.org/drm/key.php?keyid=8a6eac0fa9f9431f9d0d59d9932d10a1&key=27b1431b4f6f2531789df519cdb1e1f5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live.tv360.vn/manifest/K_PLUS_1_SD/master.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png",K+Life
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
