@@ -640,108 +640,11 @@ http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 
 
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 1 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://bb5iqwas4fliv.vcdn.cloud/m201nd/m201nd@456.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 2 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://bb5iqwas4fliv.vcdn.cloud/m301nd/m301nd@456.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 3 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://bb5iqwas4fliv.vcdn.cloud/m401nd/m401nd@456.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 4 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://bb5iqwas4fliv.vcdn.cloud/m501nd/m501nd@456.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 5 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 6 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 7 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 8 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 9 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m304nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 10 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 11 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 12 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m403nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 13 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/chunklist.m3u8|Referer=https://live.rakhoi5.live/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 14 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x6y4/chunklist.m3u8|Referer=https://saoketv.online/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 15 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/chunklist.m3u8|Referer=https://saoketv.online/
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", Live 16 ⚽ [Chọn HW]
-#EXTVLCOPT:http-user-agent="BearTV"
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4/chunklist.m3u8|Referer=https://saoketv.online/
 
 
 
 
 
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 1
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa01_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 2
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa02_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 3
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 4
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa04_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 5
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa05_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 6
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa06_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 7
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa07_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 8
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa08_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 9
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa09_4000.stream/chunklist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/jTBmGrm/fa-cup-BEARTV.png", FA Cup 10
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
-
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 01
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 02
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 03
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 04
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 05
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/bF3t6fS/UEFA-BEARTV.jpg",UEFA 06
-#EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
 
 
 #EXTINF:0 group-title="FootBall EVENT" tvg-logo="https://i.ibb.co/zsspL69/AFC-BEARTV.png",AFC 01
