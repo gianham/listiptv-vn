@@ -42,11 +42,10 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/rbMrqGf/1.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ SPORT1
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/zrmbt4cc24o0dij/																						 ㅤ
-#http://gg.gg/cckspt1
-#http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv341&offset=1&nodelay=1
+https://dl.dropboxusercontent.com/s/5v9irknmbnnrnxj/																						 ㅤ
+#http://gg.gg/cckcine
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
