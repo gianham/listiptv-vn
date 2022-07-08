@@ -44,43 +44,43 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ CINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/5v9irknmbnnrnxj/																						 ㅤ
-#http://gg.gg/cckcine
+#https://dl.dropboxusercontent.com/s/5v9irknmbnnrnxj/																						 ㅤ
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv339&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/MS363r3/4.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/feml1nov4rarlqb/																						 ㅤ
-#http://gg.gg/ccklife
-#http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv340&offset=1&nodelay=1
+#https://dl.dropboxusercontent.com/s/feml1nov4rarlqb/																						 ㅤ
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv340&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/rbMrqGf/1.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ SPORT1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/zrmbt4cc24o0dij/																						 ㅤ
+#https://dl.dropboxusercontent.com/s/zrmbt4cc24o0dij/																						 ㅤ
 #http://gg.gg/cckspt1
-#http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv341&offset=1&nodelay=1
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv341&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/9TVkkNn/2.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ SPORT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dl.dropboxusercontent.com/s/tq4sbabt1asmsld/																						 ㅤ
+#https://dl.dropboxusercontent.com/s/tq4sbabt1asmsld/																						 ㅤ
 #http://gg.gg/cckspt2
-#http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv373&offset=1&nodelay=1
+http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv373&offset=1&nodelay=1
 
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://live2.vthanh.net/C/mpegts?token=VThanhTivii_06072022
+http://vthanhkplus:07072022@live-jp.television4you.xyz:9981/stream/channelid/1981312519
+
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://live2.vthanh.net/L/mpegts?token=VThanhTivii_06072022
+http://vthanhkplus:07072022@live-jp.television4you.xyz:9981/stream/channelid/368137832
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://live2.vthanh.net/S1/mpegts?token=VThanhTivii_06072022
+http://vthanhkplus:07072022@live-jp.television4you.xyz:9981/stream/channelid/284218316
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://live2.vthanh.net/S2/mpegts?token=VThanhTivii_06072022
+http://vthanhkplus:07072022@live-jp.television4you.xyz:9981/stream/channelid/1376774247
 
 
 #EXTINF:0 tvg-id="vtvcab1hd"group-title="VTVCab" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie GIẢI TRÍ
