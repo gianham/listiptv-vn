@@ -536,26 +536,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hr34y6B/NHKE-BEARTV.png" group-title="NHẬT BẢN",NHK E
-http://203.162.235.41:16901
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Px219mS/Fuji-TV-BEARTV.png" group-title="NHẬT BẢN",Fuji TV
-http://203.162.235.41:16904
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="NHẬT BẢN", Nippon TV
-http://203.162.235.41:16905
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="NHẬT BẢN", TV Asahi
-http://203.162.235.41:16906
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="NHẬT BẢN",TBS TV
-http://203.162.235.41:16907
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DQxt7y4/TV-Tokyo-BEARTV.png" group-title="NHẬT BẢN",TV Tokyo
-http://203.162.235.41:16908
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9WkPytk/WOWOW-BEARTV.png" group-title="NHẬT BẢN", WOW WOW Cinema
-http://203.162.235.41:16916
-
-
-
-
-
-
 
 #EXTINF:0 group-title="BEAR Live SPORTS" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 1 ⚽ [Chọn HW]
 #EXTVLCOPT:http-user-agent="BearTV"
