@@ -508,27 +508,6 @@ http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 
 
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://www.tvk.gov.kh/img/logo-512.jpg", TVK
-https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg", TVK 2
-https://livefta.malimarcdn.com/tvkedge/tvk2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ASIAN TV" tvg-logo="https://i.ibb.co/zG1DTmj/BTVNews-BEARTV.png", BTV News
-https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://i.ibb.co/G9zsctr/NBT-BEARTV.png", Channel 2 - NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://i.ibb.co/YfZh8q7/tv5-BEARTV.png", Channel 5
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist.m3u8
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png", Channel 7 HD
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/20
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1200px-Thai_PBS_2015.svg.png", Thai PBS 3 HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://i.ibb.co/k4WZXFv/TVRI-BEARTV.png", TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:0 group-title="ASIAN TV" tvg-logo="https://i.ibb.co/WWrSQT9/TVRI-Sport-HD-BEARTV.png", TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-
-
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
