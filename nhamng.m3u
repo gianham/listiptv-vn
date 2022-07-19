@@ -40,38 +40,6 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/h8FLFc7/3.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ CINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://dl.dropboxusercontent.com/s/5v9irknmbnnrnxj/																						 ㅤ
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv339&offset=1&nodelay=1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
-#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/MS363r3/4.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ LIFE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://dl.dropboxusercontent.com/s/feml1nov4rarlqb/																						 ㅤ
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv340&offset=1&nodelay=1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/rbMrqGf/1.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://dl.dropboxusercontent.com/s/zrmbt4cc24o0dij/																						 ㅤ
-#http://gg.gg/cckspt1
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv341&offset=1&nodelay=1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZjcyZmRiYjAtMTcxMy0zYWYwLWFkZTUtOTMxNzI1Njc5OTI5
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚ Coca" tvg-logo="https://i.ibb.co/9TVkkNn/2.webp?88e391e2e1ab45a87fe39ad5730b3eabb65d55b4kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=",🇰+ SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://dl.dropboxusercontent.com/s/tq4sbabt1asmsld/																						 ㅤ
-http://s4live.tv1asia.com:21585/kpc1/tracks-v1a1/mono.m3u8
-#http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=	vstv373&offset=1&nodelay=1
-
-
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 http://gg.gg/kkcine
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
