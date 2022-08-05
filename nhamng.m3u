@@ -54,11 +54,21 @@ http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/strea
 http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1172634925?profile=pass
 
 
+#EXTINF:-1 tvg-id="test" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
+udp://@225.1.1.5:30120
+
+
+
+
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1cine_4000.stream/manifest.mpd
+udp://@225.1.1.5:30120
+
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚ VThanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
