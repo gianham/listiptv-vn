@@ -41,21 +41,22 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
 
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/466531817?profile=pass
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1052186754?profile=pass
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/762740200?profile=pass
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 2
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/2042687112?profile=pass
+#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/2000328272?profile=pass
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1309990178?profile=pass
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 2
 http://live.television4you.xyz:8081/LiveEvent/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 3
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 3
 http://51.79.203.60:9981/stream/channelid/1174964450?profile=pass
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1210667511?profile=pass
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1241199492?profile=pass
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 http://aisharelamcho:aisharelamcho@20220805@aisharelamcho.duckdns.org:9981/stream/channelid/1172634925?profile=pass
+
+
 
 
 
