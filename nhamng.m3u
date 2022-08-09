@@ -75,21 +75,21 @@ http://51.79.203.60:9981/stream/channelid/1174964450?profile=pass
 http://aisharelamcho.duckdns.org/aisharelamcho/KSP20608.aslc/mpegts
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS0608.aslc/mpegts
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HDFPT
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1cine_4000.stream/manifest.mpd
 #udp://@225.1.1.5:30120
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HDFPT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1lifeb_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HDFPT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
 https://smarttv-drm.fptplay.net/vthanhtivi/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HDFPT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
 https://kplus-livecdn.fptplay.net/vthanhtivi/drmlive/14022022k1sport2_4000.stream/manifest.mpd
