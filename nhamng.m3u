@@ -1,11 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport1 HD MyK 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://tvapi-sgn.solocoo.tv/v1/assets/-AmYsOqSFPl2bKmRa_0Q8pjtsxY9z1veewEcYPmf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -46,7 +40,7 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺✚" tvg-logo="https://i.imgur.com/0wjvLz2.png", K+ Sport1 HDmyK
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺✚" tvg-logo="https://i.imgur.com/0wjvLz2.png", K+ Sport1 HD MyK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8fcba278e0414523b4e68a25bd9cc397&key=dfe04c1ca44fb4c750a82e98dd08a837
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd
