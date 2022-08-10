@@ -1,10 +1,9 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Myk+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport1 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0Q8pjtsxY9z1veewEcYPmf", "kid":"j8uieOBBRSO05oolvZzDlw" } ], "type":"temporary" } 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
+https://live-drm.fptplay.net/MTAyMzk1fDE0MDIyMDIyazFzcG9ydDF3ZWJfdmhscy5zbWlsfHZpZXR0ZWx8MTY2MDEyMzY1OXwyNy43Ny4xNzcuMjI5fDRkNWE4MzdjNjEzYjBjMjBhODFjODk0N2JmM2IwMGFm/webplus/14022022k1sport1web_vhls.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        
 #EXTVLCOPT:http-user-agent="BearTV"
