@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png" group-title="K+ VIEON",K+CINE HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MUhMjNRWi7thEBq8D5kfXw", "kid":"LBiIAkpIOki5i0jME/+znA" } ], "type":"temporary" }
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/1e43ab84999f9d7b98fa6267eff618e2/1660224202811/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=YmRlOWMwMWMtMzRhZS00M2JhLTA0YTMtZDJkYzk1ODFjOGE5fHdlYnxhNjc2ZmY1ZjYzMTIyOTU0ZmU1NDRkZjYzOWYwZWFmOHw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDM5RTA0fGVkNmNlOTg0MTc1MjZkODg1MjIwNmY2N2E1NWI0MmYy
+
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        
 #EXTVLCOPT:http-user-agent="BearTV"
