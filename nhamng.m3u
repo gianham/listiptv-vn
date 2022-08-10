@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -91,7 +91,8 @@ http://live.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+ Sport1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bjUl9uzP3LXeMMkuA0RTEA", "kid":"f8Fal2eeRV+mlRumcuZhUQ" } ], "type":"temporary" } 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_640_360.png", K+ Sport2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XblobMwmRx/Z7NCHdeVpBw", "kid":"87+txM+eR/SddLBnp4Y7HA" } ], "type":"temporary" } 
