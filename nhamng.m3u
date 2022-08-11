@@ -97,7 +97,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/i.mpd
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/i.mpd 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Myk+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0Q8pjtsxY9z1veewEcYPmf", "kid":"QZBukKGpvUeCrPz47XniIw" } ], "type":"temporary" } 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"-AmYsOqSFPl2bKmRa_0Q8p", "kid":"QZBukKGpvUeCrPz47XniIw" } ], "type":"temporary" } 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ Myk+" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_480_270.png", K+ Sport2 HD 
