@@ -2,6 +2,17 @@
 #list dùng trên hạ tầng mạng FPT hoặc dùng UDPXY để sử dung
 #link rút gọn https://gg.gg/nhamngfpt
 
+
+#-------------------FPT Service-------------------#
+#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Chỉ chạy trên internet FPT
+udp://@225.12.1.2:30120
+#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",FPT Giới Thiệu Chương Trình
+udp://@225.1.1.2:30120
+#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Chơi Hay Chia
+udp://@225.1.1.26:30120
+#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Pladio
+udp://@225.1.2.244:30120
+
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/VTV1_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602110918&path-prefix=vi",VTV1 HD  
 udp://@225.1.2.249:30120
@@ -341,18 +352,6 @@ udp://@225.1.1.90:30120
 udp://@225.1.1.224:30120
 #EXTINF:-1 tvg-id="binhduong11" group-title="Mua Sắm" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV11 TOP Home Shopping
 udp://@225.1.4.84:30120
-
-
-
-
-#-------------------FPT Service-------------------#
-#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",FPT Giới Thiệu Chương Trình
-udp://@225.1.1.2:30120
-#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Chơi Hay Chia
-udp://@225.1.1.26:30120
-#EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Pladio
-udp://@225.1.2.244:30120
-
 
 
 
