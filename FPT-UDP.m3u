@@ -109,20 +109,6 @@ udp://@225.1.2.148:30120
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS  
 udp://@225.1.1.43:30120
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 4Mbps)
-udp://@225.1.4.97:30120
-#EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 4Mbps)
-udp://@225.1.4.98:30120
-#EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 4Mbps)
-udp://@225.1.4.148:30120
-#EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 4Mbps)
-udp://@225.1.4.217:30120
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 4Mbps)
-udp://@225.1.4.95:30120
-
-
-
-
 #-------------------Địa phương HD-------------------#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong1_vdsl.png",THVL1 HD _ TH Vĩnh Long 1
 udp://@225.1.1.155:30120
