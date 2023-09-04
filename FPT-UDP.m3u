@@ -2,72 +2,72 @@
 #list dùng trên hạ tầng mạng FPT hoặc dùng UDPXY để sử dung
 #link rút gọn https://gg.gg/nhamngfpt
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/VTV1_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602110918&path-prefix=vi",VTV1 HD  
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/VTV1_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602110918&path-prefix=vi",VTV1  
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/VTV2_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111014&path-prefix=vi",VTV2 HD  
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/VTV2_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111014&path-prefix=vi",VTV2  
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/VTV3_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111459&path-prefix=vi",VTV3 HD  
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/VTV3_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111459&path-prefix=vi",VTV3  
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/VTV4_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111856&path-prefix=vi",VTV4 HD  
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/VTV4_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111856&path-prefix=vi",VTV4  
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV5_31.12.2019-07.01.2020_v%C3%A0_31.10.2022-nay.png/revision/latest?cb=20220602112543&path-prefix=vi",VTV5 HD  
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV5_31.12.2019-07.01.2020_v%C3%A0_31.10.2022-nay.png/revision/latest?cb=20220602112543&path-prefix=vi",VTV5  
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV_C%E1%BA%A7n_Th%C6%A1_logo_h%C3%ACnh_hi%E1%BB%87u_2022.png/revision/latest?cb=20221022063354&path-prefix=vi",VTV Cần Thơ HD  
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV_C%E1%BA%A7n_Th%C6%A1_logo_h%C3%ACnh_hi%E1%BB%87u_2022.png/revision/latest?cb=20221022063354&path-prefix=vi",VTV Cần Thơ  
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/VTV7_logo_06.02.2016.png/revision/latest?cb=20201213013334&path-prefix=vi",VTV7 HD  
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/VTV7_logo_06.02.2016.png/revision/latest?cb=20201213013334&path-prefix=vi",VTV7  
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV8_01-09.01.2020_v%C3%A0_29.06.2022-nay.png/revision/latest?cb=20220602112826&path-prefix=vi",VTV8 HD  
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/VTV8_01-09.01.2020_v%C3%A0_29.06.2022-nay.png/revision/latest?cb=20220602112826&path-prefix=vi",VTV8  
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/VTV9_01-10.01.2020_v%C3%A0_01.11.2022-nay_b%E1%BA%A3n_1.png/revision/latest?cb=20220602112929&path-prefix=vi",VTV9 HD  
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/VTV9_01-10.01.2020_v%C3%A0_01.11.2022-nay_b%E1%BA%A3n_1.png/revision/latest?cb=20220602112929&path-prefix=vi",VTV9  
 udp://@225.1.1.128:30120
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel  
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://imgur.com/aFUOlhc.jpg",HTV2 Vie Channel  
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD  
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7  
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD  
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9  
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO  
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO  
 udp://@225.1.1.165:30120
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc  
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc  
 udp://@225.1.1.185:30120
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống  
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống  
 udp://@225.1.1.166:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình  
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình  
 udp://@225.1.1.169:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình  
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình  
 udp://@225.1.1.170:30120
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim  
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim  
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ  
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ  
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt  
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt  
 udp://@225.1.1.174:30120
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD  
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt  
 udp://@225.1.1.186:30120
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+  
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+  
 udp://@225.1.1.181:30120
-#EXTINF:-1 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://imgur.com/XaaTCtg.jpg",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3 Dreams TV
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3 Dreams TV
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 udp://@225.1.1.177:30120
 
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD  
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1  
 udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD  
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3  
 udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD  
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4  
 udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD  
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9  
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD  
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13  
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD  
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14  
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="ctv16" group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD  
+#EXTINF:-1 tvg-id="ctv16" group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16  
 udp://@225.1.2.190:30120
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
 udp://@225.1.2.202:30120
@@ -88,84 +88,74 @@ udp://@225.1.2.51:30120
 #EXTINF:-1 tvg-id="vovtvhd" group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
 
-
-
-#-------------------Truyền hình Vĩnh Long-------------------#
-
-
-
-
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://vietanhtv.xyz/ic/sctv6.png",SCTV6  
 udp://@225.1.1.188:30120
 #-------------------Thiết yếu-------------------#
-#EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD  
+#EXTINF:-1 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV  
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="nhandan" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV  
 udp://@225.1.1.91:30120
-#EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD  
+#EXTINF:-1 tvg-id="quochoi" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội  
 udp://@225.1.2.148:30120
 #EXTINF:-1 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN  
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS  
 udp://@225.1.1.43:30120
-#-------------------Địa phương HD-------------------#
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong1_vdsl.png",THVL1 HD _ TH Vĩnh Long 1
+#-------------------Địa phương-------------------#
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong1_vdsl.png",THVL1 _ TH Vĩnh Long 1
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong2_vdsl.png",THVL2 HD _ TH Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong2_vdsl.png",THVL2 _ TH Vĩnh Long 2
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong3hd_vdsl.png",THVL3 HD _ TH Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong3hd_vdsl.png",THVL3 _ TH Vĩnh Long 3
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong4hd_vdsl.png",THVL4 HD _ TH Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong4hd_vdsl.png",THVL4 _ TH Vĩnh Long 4
 udp://@225.1.2.25:30120
-
-
-
 #EXTINF:-1 tvg-id="laocai" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/39/THLC_HD_logo_HD_tr%E1%BA%AFng_-_c%C3%B3_website.png/revision/latest?cb=20210916045711&path-prefix=vi",THLC _ TH Lào Cai
 udp://@225.1.1.119:30120
-#EXTINF:-1 tvg-id="dienbien" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/Logo_%C4%90TV_HD_%C4%90i%E1%BB%87n_Bi%C3%AAn_%28Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/1000?cb=20220225084114&path-prefix=vi",ĐTV HD _ TH Điện Biên
+#EXTINF:-1 tvg-id="dienbien" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/Logo_%C4%90TV_HD_%C4%90i%E1%BB%87n_Bi%C3%AAn_%28Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest/scale-to-width-down/1000?cb=20220225084114&path-prefix=vi",ĐTV _ TH Điện Biên
 udp://@225.1.1.74:30120
-#EXTINF:-1 tvg-id="tuyenquang" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/tuyenquang_vdsl.png",TTV HD _ TH Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/tuyenquang_vdsl.png",TTV _ TH Tuyên Quang
 udp://@225.1.2.188:30120
-#EXTINF:-1 tvg-id="thainguyen" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/TN1_HD_2018.png/revision/latest/scale-to-width-down/693?cb=20201013140734&path-prefix=vi",TN1 HD _ TH Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/TN1_HD_2018.png/revision/latest/scale-to-width-down/693?cb=20201013140734&path-prefix=vi",TN1 _ TH Thái Nguyên
 udp://@225.1.2.179:30120
-#EXTINF:-1 tvg-id="hoabinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/HBTV_HD_logo_2021.png/revision/latest?cb=20210816042841&path-prefix=vi",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+#EXTINF:-1 tvg-id="hoabinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/HBTV_HD_logo_2021.png/revision/latest?cb=20210816042841&path-prefix=vi",HBTV _ TH Hòa Bình (HD 4Mbps)
 udp://@225.1.2.168:30120
-#EXTINF:-1 tvg-id="phutho" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/PTV_HD_Ph%C3%BA_Th%E1%BB%8D_logo_v2.png/revision/latest?cb=20210823111142&path-prefix=vi",PTV HD _ TH Phú Thọ
+#EXTINF:-1 tvg-id="phutho" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/PTV_HD_Ph%C3%BA_Th%E1%BB%8D_logo_v2.png/revision/latest?cb=20210823111142&path-prefix=vi",PTV _ TH Phú Thọ
 udp://@225.1.2.165:30120
-#EXTINF:-1 tvg-id="bacgiang" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/bacgiang_vdsl.jpg",BGTV HD _ TH Bắc Giang
+#EXTINF:-1 tvg-id="bacgiang" group-title=" Địa phương" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/bacgiang_vdsl.jpg",BGTV _ TH Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:-1 tvg-id="langson" group-title=" Địa phương"  tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/LSTV_HD_logo.png/revision/latest?cb=20210924021325&path-prefix=vi",LSTV HD _ TH Lạng Sơn
+#EXTINF:-1 tvg-id="langson" group-title=" Địa phương"  tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/LSTV_HD_logo.png/revision/latest?cb=20210924021325&path-prefix=vi",LSTV _ TH Lạng Sơn
 udp://@225.1.1.160:30120
-#EXTINF:-1 tvg-id="caobang" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CRTV_HD.png/revision/latest?cb=20210529061516&path-prefix=vi",CRTV HD _ TH Cao Bằng
+#EXTINF:-1 tvg-id="caobang" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CRTV_HD.png/revision/latest?cb=20210529061516&path-prefix=vi",CRTV _ TH Cao Bằng
 udp://@225.1.1.102:30120
-#EXTINF:-1 tvg-id="backan" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/TBK_HD.png/revision/latest?cb=20210830044336&path-prefix=vi",TBK HD _ TH Bắc Kạn (HD 4Mbps)
+#EXTINF:-1 tvg-id="backan" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/TBK_HD.png/revision/latest?cb=20210830044336&path-prefix=vi",TBK _ TH Bắc Kạn (HD 4Mbps)
 udp://@225.1.1.126:30120
-#EXTINF:-1 tvg-id="quangninh1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/QTV1_HD.png/revision/latest?cb=20210529103714&path-prefix=vi",QTV1 HD _ TH Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/QTV1_HD.png/revision/latest?cb=20210529103714&path-prefix=vi",QTV1 _ TH Quảng Ninh
 udp://@225.1.2.181:30120
 #EXTINF:-1 tvg-id="quangninh3" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/QTV3_HD.png/revision/latest?cb=20210529102824&path-prefix=vi",QTV3 _ TH Quảng Ninh
 udp://@225.1.2.180:30120
 #EXTINF:-1 tvg-id="bacninh" group-title=" Địa phương" tvg-logo=https://images.fbox.fpt.vn/Channel/iconChannel/bacninhhd_vdsl.png",BTV _ TH Bắc Ninh
 udp://@225.1.1.40:30120
-#EXTINF:-1 tvg-id="hanoi1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/HanoiTV1_HD.png/revision/latest?cb=20210720042810&path-prefix=vi",Hà Nội 1 HD
+#EXTINF:-1 tvg-id="hanoi1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/HanoiTV1_HD.png/revision/latest?cb=20210720042810&path-prefix=vi",Hà Nội 1
 udp://@225.1.2.186:30120
-#EXTINF:-1 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/HanoiTV2_HD.png/revision/latest?cb=20210902173435&path-prefix=vi",Hà Nội 2 HD
+#EXTINF:-1 tvg-id="hanoi2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/HanoiTV2_HD.png/revision/latest?cb=20210902173435&path-prefix=vi",Hà Nội 2
 udp://@225.1.1.125:30120
-#EXTINF:-1 tvg-id="haiphong" group-title=" Địa phương" tvg-logo="https://img.hplus.com.vn/355x200/poster/2019/07/17/821553-thp.png",THP HD _ TH TP. Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" group-title=" Địa phương" tvg-logo="https://img.hplus.com.vn/355x200/poster/2019/07/17/821553-thp.png",THP _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="ninhbinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/Logo_NTV_HD_Ninh_B%C3%ACnh.png/revision/latest/scale-to-width-down/1000?cb=20211204172349&path-prefix=vi",NTV HD _ TH Ninh Bình
+#EXTINF:-1 tvg-id="ninhbinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/Logo_NTV_HD_Ninh_B%C3%ACnh.png/revision/latest/scale-to-width-down/1000?cb=20211204172349&path-prefix=vi",NTV _ TH Ninh Bình
 udp://@225.1.2.185:30120
-#EXTINF:-1 tvg-id="nghean" group-title=" Địa phương" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/old_image/dataimages/201807/original/1411496_Logo_NTV_HD_chuan.png",NTV HD _ TH Nghệ An
+#EXTINF:-1 tvg-id="nghean" group-title=" Địa phương" tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/old_image/dataimages/201807/original/1411496_Logo_NTV_HD_chuan.png",NTV _ TH Nghệ An
 udp://@225.1.2.183:30120
-#EXTINF:-1 tvg-id="hatinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/HTTV_HD_logo.png/revision/latest?cb=20210916112001&path-prefix=vi",HTTV HD _ TH Hà Tĩnh
+#EXTINF:-1 tvg-id="hatinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/HTTV_HD_logo.png/revision/latest?cb=20210916112001&path-prefix=vi",HTTV _ TH Hà Tĩnh
 udp://@225.1.1.75:30120
 #EXTINF:-1 tvg-id="quangtri" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/QRTV_HD_logo_c%C3%B3_website_2021.png/revision/latest?cb=20210916112735&path-prefix=vi",QRTV _ TH Quảng Trị
 udp://@225.1.1.117:30120
-#EXTINF:-1 tvg-id="danang1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/DaNangTV1_HD_%282020%2C_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_2%29.png/revision/latest?cb=20211210172440&path-prefix=vi",DaNangTV1 HD _ TH TP. Đà Nẵng
+#EXTINF:-1 tvg-id="danang1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ea/DaNangTV1_HD_%282020%2C_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_2%29.png/revision/latest?cb=20211210172440&path-prefix=vi",DaNangTV1 _ TH TP. Đà Nẵng
 udp://@225.1.1.147:30120
-#EXTINF:-1 tvg-id="danang2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/DaNangTV2_HD_%282020%2C_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_2%29.png/revision/latest?cb=20211211164533&path-prefix=vi",DaNangTV2 HD _ TH TP. Đà Nẵng
+#EXTINF:-1 tvg-id="danang2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/DaNangTV2_HD_%282020%2C_Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_2%29.png/revision/latest?cb=20211211164533&path-prefix=vi",DaNangTV2 _ TH TP. Đà Nẵng
 udp://@225.1.1.146:30120
-#EXTINF:-1 tvg-id="quangnam" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c5/QRT_HD_logo_c%C3%B3_website_2019.png/revision/latest?cb=20210916113825&path-prefix=vi",QRT HD _ TH Quảng Nam
+#EXTINF:-1 tvg-id="quangnam" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c5/QRT_HD_logo_c%C3%B3_website_2019.png/revision/latest?cb=20210916113825&path-prefix=vi",QRT _ TH Quảng Nam
 udp://@225.1.2.50:30120
 #EXTINF:-1 tvg-id="quangngai" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e3/Logo_PTQ_Qu%E1%BA%A3ng_Ng%C3%A3i_%282021%2C_c%C3%B3_website%29.png/revision/latest?cb=20211122102412&path-prefix=vi",PTQ _ TH Quảng Ngãi
 udp://@225.1.2.174:30120
@@ -173,47 +163,47 @@ udp://@225.1.2.174:30120
 udp://@225.1.1.145:30120
 #EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/Logo_PTP_c%C3%B3_website.png/revision/latest?cb=20210916104732&path-prefix=vi",PTP _ TH Phú Yên
 udp://@225.1.2.58:30120
-#EXTINF:-1 tvg-id="khanhhoa" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/KTV_HD_Khanh_Hoa.png/revision/latest?cb=20210927094107&path-prefix=vi",KTV HD _ TH Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/KTV_HD_Khanh_Hoa.png/revision/latest?cb=20210927094107&path-prefix=vi",KTV _ TH Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:-1 tvg-id="binhthuan" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/Qh_logo_color.png/revision/latest?cb=20201010132630&path-prefix=vi",BTV HD _ TH Bình Thuận
+#EXTINF:-1 tvg-id="binhthuan" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/Qh_logo_color.png/revision/latest?cb=20201010132630&path-prefix=vi",BTV _ TH Bình Thuận
 udp://@225.1.1.124:30120
 #EXTINF:-1 tvg-id="kontum" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/KRT_Kon_Tum_c%C3%B3_website.png/revision/latest?cb=20210916110019&path-prefix=vi",KRT _ TH Kon Tum
 udp://@225.1.1.36:30120
 #EXTINF:-1 tvg-id="gialai" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/THGL_Gia_Lai-0.png/revision/latest?cb=20201022132401&path-prefix=vi",THGL _ TH Gia Lai
 udp://@225.1.2.176:30120
-#EXTINF:-1 tvg-id="lamdong" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/Logo_LTV_HD_Lam_Dong.png/revision/latest?cb=20210829125029&path-prefix=vi",LTV HD _ TH Lâm Đồng
+#EXTINF:-1 tvg-id="lamdong" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/Logo_LTV_HD_Lam_Dong.png/revision/latest?cb=20210829125029&path-prefix=vi",LTV _ TH Lâm Đồng
 udp://@225.1.2.177:30120
-#EXTINF:-1 tvg-id="binhduong1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/Logo_BTV1_HD_B%C3%ACnh_D%C6%B0%C6%A1ng_%282021%2C_c%C3%B3_website%29.png/revision/latest?cb=20210905013907&path-prefix=vi",BTV1 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/df/Logo_BTV1_HD_B%C3%ACnh_D%C6%B0%C6%A1ng_%282021%2C_c%C3%B3_website%29.png/revision/latest?cb=20210905013907&path-prefix=vi",BTV1 _ TH Bình Dương
 udp://@225.1.1.150:30120
-#EXTINF:-1 tvg-id="binhduong2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/Logo_BTV2_HD_B%C3%ACnh_D%C6%B0%C6%A1ng_%282018%2C_c%C3%B3_website%29.png/revision/latest?cb=20210905025458&path-prefix=vi",BTV2 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/Logo_BTV2_HD_B%C3%ACnh_D%C6%B0%C6%A1ng_%282018%2C_c%C3%B3_website%29.png/revision/latest?cb=20210905025458&path-prefix=vi",BTV2 _ TH Bình Dương
 udp://@225.1.1.149:30120
-#EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV3_HD_logo_2019.png/revision/latest?cb=20210905034145&path-prefix=vi",BTV3 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV3_HD_logo_2019.png/revision/latest?cb=20210905034145&path-prefix=vi",BTV3 _ TH Bình Dương
 udp://@225.1.2.22:30120
-#EXTINF:-1 tvg-id="binhduong4" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/BTV4_HD.png/revision/latest?cb=20210106131352&path-prefix=vi",BTV4 HD _ TH Bình Dương
+#EXTINF:-1 tvg-id="binhduong4" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/BTV4_HD.png/revision/latest?cb=20210106131352&path-prefix=vi",BTV4 _ TH Bình Dương
 udp://@225.1.1.30:30120
-#EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/An_Vi%C3%AAn_TV_BChannel_2021.png/revision/latest?cb=20210918031751&path-prefix=vi",BTV9 An Viên HD
+#EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/An_Vi%C3%AAn_TV_BChannel_2021.png/revision/latest?cb=20210918031751&path-prefix=vi",BTV9 An Viên
 udp://@225.1.2.189:30120
-#EXTINF:-1 tvg-id="dongnai1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/%C4%90N1-RTV.png/revision/latest?cb=20200910121502&path-prefix=vi",ĐNRTV1 HD _ TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai1" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/%C4%90N1-RTV.png/revision/latest?cb=20200910121502&path-prefix=vi",ĐNRTV1 _ TH Đồng Nai
 udp://@225.1.1.152:30120
-#EXTINF:-1 tvg-id="dongnai2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/%C4%90N2-RTV.png/revision/latest?cb=20200910121623&path-prefix=vi",ĐNRTV2 HD _ TH Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/%C4%90N2-RTV.png/revision/latest?cb=20200910121623&path-prefix=vi",ĐNRTV2 _ TH Đồng Nai
 udp://@225.1.1.151:30120
 #EXTINF:-1 tvg-id="tayninh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/TTV11_TayNinhTV.png/revision/latest?cb=20220210170803&path-prefix=vi",TTV11 _ TH Tây Ninh
 udp://@225.1.1.130:30120
-#EXTINF:-1 tvg-id="vungtau" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BRT_HD_V%C5%A9ng_T%C3%A0u_c%C3%B3_website.png/revision/latest?cb=20210415134054&path-prefix=vi",BRT HD _ TH Bà Rịa Vũng Tàu
+#EXTINF:-1 tvg-id="vungtau" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BRT_HD_V%C5%A9ng_T%C3%A0u_c%C3%B3_website.png/revision/latest?cb=20210415134054&path-prefix=vi",BRT _ TH Bà Rịa Vũng Tàu
 udp://@225.1.2.175:30120
-#EXTINF:-1 tvg-id="tiengiang" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/THTG_HD_logo_2021.png/revision/latest?cb=20210731012158&path-prefix=vi",THTG HD _ TH Tiền Giang
+#EXTINF:-1 tvg-id="tiengiang" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/THTG_HD_logo_2021.png/revision/latest?cb=20210731012158&path-prefix=vi",THTG _ TH Tiền Giang
 udp://@225.1.2.170:30120
-#EXTINF:-1 tvg-id="travinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/THTV_HD_Logo.png/revision/latest?cb=20210721091836&path-prefix=vi",THTV HD _ TH Trà Vinh
+#EXTINF:-1 tvg-id="travinh" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/THTV_HD_Logo.png/revision/latest?cb=20210721091836&path-prefix=vi",THTV _ TH Trà Vinh
 udp://@225.1.2.172:30120
 #EXTINF:-1 tvg-id="haugiang" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/Logo_HGTV_HD_H%E1%BA%ADu_Giang.png/revision/latest/scale-to-width-down/1000?cb=20220316003116&path-prefix=vi",HGTV _ TH Hậu Giang
 udp://@225.1.1.157:30120
 #EXTINF:-1 tvg-id="kiengiang" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/KG_PTTH_logo_m%C3%A0n_h%C3%ACnh.png/revision/latest?cb=20210923095326&path-prefix=vi",KG1 _ TH Kiên Giang
 udp://@225.1.2.182:30120
-#EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/Logo_BLTV_HD_B%E1%BA%A1c_Li%C3%AAu.png/revision/latest/scale-to-width-down/1000?cb=20220306160741&path-prefix=vi",BLTV HD _ TH Bạc Liêu
+#EXTINF:-1 tvg-id="" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/Logo_BLTV_HD_B%E1%BA%A1c_Li%C3%AAu.png/revision/latest/scale-to-width-down/1000?cb=20220306160741&path-prefix=vi",BLTV _ TH Bạc Liêu
 udp://@225.1.1.61:30120
-#EXTINF:-1 tvg-id="camau" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/Logo_CTV_HD_C%C3%A0_Mau.png/revision/latest?cb=20210621034123&path-prefix=vi",CTV HD _ TH Cà Mau
+#EXTINF:-1 tvg-id="camau" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/Logo_CTV_HD_C%C3%A0_Mau.png/revision/latest?cb=20210621034123&path-prefix=vi",CTV _ TH Cà Mau
 udp://@225.1.1.104:30120
-#EXTINF:-1 tvg-id="cantho" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/THTPCT_HD_logo_24.7.2020_%28Can_Tho%29.png/revision/latest?cb=20210718083338&path-prefix=vi",THTPCT HD _ TH TP. Cần Thơ
+#EXTINF:-1 tvg-id="cantho" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/THTPCT_HD_logo_24.7.2020_%28Can_Tho%29.png/revision/latest?cb=20210718083338&path-prefix=vi",THTPCT _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
 #EXTINF:-1 tvg-id="dongthap" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/TH%C4%90T1_HD.png/revision/latest?cb=20210810113405&path-prefix=vi",THĐT1 _ TH Đồng Tháp
 udp://@225.1.1.163:30120
@@ -229,22 +219,15 @@ udp://@225.1.1.118:30120
 udp://@225.1.2.99:30120
 #EXTINF:-1 tvg-id="thanhhoa" group-title=" Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/TTV_logo_%28TH%29.png/revision/latest/scale-to-width-down/1000?cb=20180718183027&path-prefix=vi",TTV _ TH Thanh Hóa
 udp://@225.1.2.184:30120
-
-
-
-
-
-
-#-------------------Quốc tế HD-------------------#
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet
 udp://@225.1.1.231:30120
 #EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6f/Animax.png",Animax
 udp://@225.1.1.135:30120
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-id="afnhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Asian_Food_Network_logo.png/revision/latest/scale-to-width-down/200?cb=20220226091253&path-prefix=vi",Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/s28XuHs.png",Baby TV HD
+#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-id="babytvhd" tvg-logo="https://i.imgur.com/s28XuHs.png",Baby TV
 udp://@225.1.2.146:30120
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-id="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png",BBC CbeeBies
 udp://@225.1.1.134:30120
@@ -256,17 +239,17 @@ udp://@225.1.1.138:30120
 udp://@225.1.1.203:30120
 #EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/Blue_Ant_Extreme_Vietnam.png/revision/latest/scale-to-width-down/180?cb=20220422031313&path-prefix=vi",BLUE ANT EXTREME
 udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax
 udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-id="davinci" tvg-logo="https://static.megavie.live/media/davinci.png",Da Vinci
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png",Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png",Discovery Asia
 udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel HD
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/DreamWorks_Animation_2016_%28Moon_Boy%29.png/revision/latest/scale-to-width-down/150?cb=20220818023503&path-prefix=vi",Dreamworks
 udp://@225.1.1.136:30120
@@ -276,11 +259,11 @@ udp://@225.1.1.46:30120
 udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Fashion4K_logo.png",Fashion TV 4K
 udp://@225.1.2.232:30120
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO
 udp://@225.1.4.90:30120
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/CVxACz9.png",KIX
 udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",NATIONAL GEOGRAPHIC
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png",NAT GEO WILD
 udp://@225.1.1.211:30120
@@ -290,7 +273,7 @@ udp://@225.1.1.47:30120
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-id="tlchd" tvg-logo="https://i.imgur.com/amlBPub.png",TLC
 udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/z8Cm35k.png",Warner TV HD
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/z8Cm35k.png",Warner TV
 udp://@225.1.1.139:30120
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",KBS WORLD
 udp://@225.1.1.196:30120
@@ -305,31 +288,6 @@ udp://@225.1.1.242:30120
 
 
 
-#-------------------Mua sắm-------------------#
-#EXTINF:-1 tvg-id="" group-title="Mua Sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/%C4%90N9-RTV_2018.png/revision/latest?cb=20211025231842&path-prefix=vi",Đồng Nai 9 Sky Shop  
-udp://@225.1.1.153:30120
-#EXTINF:-1 tvg-id="vtvcab11" group-title="Mua Sắm" tvg-logo="https://mytv.com.vn/upload/channel/8.png",VTVCab11 GS SHOP
-udp://@225.1.2.167:30120
-#EXTINF:-1 tvg-id="vtvcab13" group-title="Mua Sắm" tvg-logo="https://imgur.com/HwMUDwy.png",VTVCab13 VTV Hyundai Homeshopping
-udp://@225.1.1.122:30120
-#EXTINF:-1 tvg-id="vtvcab13" group-title="Mua Sắm" tvg-logo="https://imgur.com/HwMUDwy.png",VTVCab13 VTV Hyundai Homeshopping
-udp://@225.1.4.79:30120
-#EXTINF:-1 tvg-id="sctv10" group-title="Mua Sắm" tvg-logo="https://vietanhtv.xyz/ic/sctv10.png",SCTV10 VTV Hyundai Homeshopping
-udp://@225.1.2.37:30120
-#EXTINF:-1 tvg-id="htvcmuasam" group-title="Mua Sắm" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/02/265341-logo_htvc_shopping.png",HTVC VGS SHOP
-udp://@225.1.1.172:30120
-#EXTINF:-1 tvg-id="htvcmuasam" group-title="Mua Sắm" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/08/02/265341-logo_htvc_shopping.png",HTVC VGS SHOP
-udp://@225.1.4.89:30120
-#EXTINF:-1 tvg-id="" group-title="Mua Sắm" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/Qh_logo_color.png/revision/latest?cb=20201010132630&path-prefix=vi",BTV6 Quê Hương Homeshopping
-udp://@225.1.1.90:30120
-#EXTINF:-1 tvg-id="binhduong11" group-title="Mua Sắm" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV11 TOP Home Shopping
-udp://@225.1.1.224:30120
-#EXTINF:-1 tvg-id="binhduong11" group-title="Mua Sắm" tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV11 TOP Home Shopping
-udp://@225.1.4.84:30120
-
-
-
-#-------------------test-------------------#
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",FEED 1 SPORTS
 udp://@225.1.1.31:30120
 #EXTINF:-1 group-title="CLEAN FEED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",FEED 2 SPORTS
@@ -371,15 +329,3 @@ udp://@225.1.1.2:30120
 udp://@225.1.1.26:30120
 #EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Pladio
 udp://@225.1.2.244:30120
-
-
-
-#-------------------DRM-------------------#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_16565571103.png",K+ Cine HD (DRM)
-udp://@225.1.1.5:30120
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_165655713016.png",K+ Life HD (DRM)
-udp://@225.1.1.6:30120
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_165655722566.png",K+ Sports 1 HD (DRM)
-udp://@225.1.1.73:30120
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_165655724357.png",K+ Sports 2 HD (DRM)
-udp://@225.1.1.77:30120
