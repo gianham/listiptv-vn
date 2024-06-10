@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #list dùng trên hạ tầng mạng FPT hoặc dùng UDPXY để sử dung
-#link rút gọn https://gg.gg/nhamngfpt
+#link rút gọn https://gg.gg/nhamngfpt hoặc https://s.id/fpthcm
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/VTV1_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602110918&path-prefix=vi",VTV1  
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1  
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bd/VTV2_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111014&path-prefix=vi",VTV2  
 udp://@225.1.2.13:30120
@@ -10,7 +10,7 @@ udp://@225.1.2.13:30120
 udp://@225.1.2.247:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/59/VTV4_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602111856&path-prefix=vi",VTV4  
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV5_31.12.2019-07.01.2020_v%C3%A0_31.10.2022-nay.png/revision/latest?cb=20220602112543&path-prefix=vi",VTV5  
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5  
 udp://@225.1.1.131:30120
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/VTV_C%E1%BA%A7n_Th%C6%A1_logo_h%C3%ACnh_hi%E1%BB%87u_2022.png/revision/latest?cb=20221022063354&path-prefix=vi",VTV Cần Thơ  
 udp://@225.1.2.245:30120
@@ -280,9 +280,9 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 udp://@225.1.1.139:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC
 udp://@225.1.1.227:30120
 
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
