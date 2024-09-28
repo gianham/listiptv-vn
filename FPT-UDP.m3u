@@ -344,7 +344,7 @@ udp://@225.1.1.95:30120
 udp://@225.1.1.94:30120
 #-------------------FPT Service-------------------#
 #EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Chỉ chạy trên internet FPT
-udp://@225.12.1.2:30120
+https:///dl.dropboxusercontent.com/s/jws20e6jtznf01kah0kfc/     																																	  ㅤ?¹ 	 									 													 &rlkey=c9futtlcobb3ebtxbwvnkpcc1 
 #EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",FPT Giới Thiệu Chương Trình
 udp://@225.1.1.2:30120
 #EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FTEL_Logo.svg/470px-FTEL_Logo.svg.png",Chơi Hay Chia
