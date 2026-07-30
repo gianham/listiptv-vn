@@ -33,23 +33,14 @@ https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10
 https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="Truyền Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png", VTV6
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp" tvg-id="vtv7hd",VTV7
-#https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
-https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp" tvg-id="vtv7hd",VTV7 VNPT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=http://minhghi.vietanhtv.top/mytv2/key.php
-#https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/lpcltL9.png" tvg-id="vtv8hd", VTV8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp" tvg-id="vtv9hd",VTV9
-https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp" tvg-id="vtv9hd",VTV9 
-#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
-#EXTINF:-1 tvg-id="vtv10hd" group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755", VTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.vnepg.site/VietnamToday/tracks-v1a1/timeshift_abs-${start}.m3u8" ,VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="htvkey",HTV Keys
