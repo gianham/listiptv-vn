@@ -2,7 +2,7 @@
 #link tong hop dung de xem ca nhan khong thu phi, neu vo tinh ban thay thi KHONG nên chia se.
 #Nguon duoc lay tu ban VietAnh va mot so noi khac
 #-----------------------Truyền Hình-------------------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền Hình" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv1.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.vnepg.site/VTV1/tracks-v1a1/timeshift_abs-${start}.m3u8", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Truyền Hình" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv1.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.epg.io.vn/VTV1/tracks-v1a1/timeshift_abs-${start}.m3u8", VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #https://timeshift.vnepg.site/VTV1/tracks-v1a1/rewind-7200.m3u8
@@ -19,7 +19,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_56000
 #EXTINF:-1 tvg-id="vtv4hd" group-title="Truyền Hình" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv4.png" , VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Truyền Hình" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv5.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.vnepg.site/VTV5/tracks-v1a1/timeshift_abs-${start}.m3u8" , VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Truyền Hình" tvg-logo="https://vietanh18h1.duckdns.org/logo/vtv5.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.epg.io.vn/VTV5/tracks-v1a1/timeshift_abs-${start}.m3u8" , VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/hMcVcJK/ccvtv5tnb.webp" tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
@@ -40,7 +40,7 @@ https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.vnepg.site/VietnamToday/tracks-v1a1/timeshift_abs-${start}.m3u8" ,VietNam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png" catchup="append" catchup-days="2" catchup-source="https://timeshift.epg.io.vn/VietnamToday/tracks-v1a1/timeshift_abs-${start}.m3u8" ,VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="htvkey",HTV Keys
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
@@ -71,10 +71,6 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="htvcplushd",HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viegiaitri.png", ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
-
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
